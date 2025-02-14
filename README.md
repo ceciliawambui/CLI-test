@@ -1,6 +1,6 @@
 # CLI Commands
-##Creating a new folder
+## Creating a new folder
 ### mkdir sample
 
-##moving into the folder/changing folder
+## moving into the folder/changing folder
 ### cd sample
